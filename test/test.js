@@ -1,3 +1,5 @@
+'use strict';
+
 let Rectangle = require('../lib/rectangle');
 
 describe ("getArea Rectangle", function() {
